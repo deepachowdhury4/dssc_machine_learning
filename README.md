@@ -10,9 +10,3 @@ Seperate Folders are labelled with what is in them and explanations of the folde
 _Project:_
 - _Data:_ includes all input data for ML model, even if it's not being utilized for the model
 - _Code:_ includes all code I'm using for data preprocessing and the ML algorithm itself
-
-_Presentations:_ includes all presentations for capstone project
-
-_TA Meetings:_ has log file containing weekly project status reports
-
-_Reports:_ Includes documentation and required reports for capstone project
