@@ -1,0 +1,131 @@
+Symbol,Name,AtomicNumber,AtomicWeight,Dielectric_Constant,Source_Dielectric
+H,hydrogen,1,1.00794,1.23,https://www.clippercontrols.com/pages/Dielectric-Constant-Values.html#T
+He,helium,2,4.002602,1.055,https://www.clippercontrols.com/pages/Dielectric-Constant-Values.html#T
+Li,lithium,3,6.941,3.5,https://pubs.acs.org/doi/10.1021/acs.jpcc.5b06022
+Be,beryllium,4,9.012182,6,https://www.clippercontrols.com/pages/Dielectric-Constant-Values.html#T
+B,boron,5,10.811,3.5,https://www.nature.com/articles/s41699-018-0050-x
+C,carbon,6,12.0107,2.75,https://www.clippercontrols.com/pages/Dielectric-Constant-Values.html#T
+N,nitrogen,7,14.0067,1.00058,https://www.clippercontrols.com/pages/Dielectric-Constant-Values.html#T
+O,oxygen,8,15.9994,1.000494,https://www.clippercontrols.com/pages/Dielectric-Constant-Values.html#T
+F,fluorine,9,18.9984032,3.7,https://www.researchgate.net/publication/234916486_Reasons_for_lower_dielectric_constant_of_fluorinated_SiO2_films/figures?lo=1
+Ne,neon,10,20.1797,1.000127,https://www.clippercontrols.com/pages/Dielectric-Constant-Values.html#T
+Na,sodium,11,22.98977,2.8,chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.kabusa.com/Dilectric-Constants.pdf
+Mg,magnesium,12,24.305,9.7,https://www.clippercontrols.com/pages/Dielectric-Constant-Values.html#T
+Al,aluminum,13,26.981538,10.4,https://www.clippercontrols.com/pages/Dielectric-Constant-Values.html#T
+Si,silicon,14,28.0855,11.5,https://www.clippercontrols.com/pages/Dielectric-Constant-Values.html#T
+P,phosphorus,15,30.973761,4.1,https://www.clippercontrols.com/pages/Dielectric-Constant-Values.html#T
+S,sulfur,16,32.065,1.65,https://www.clippercontrols.com/pages/Dielectric-Constant-Values.html#T
+Cl,chlorine,17,35.453,2,https://www.clippercontrols.com/pages/Dielectric-Constant-Values.html#T
+Ar,argon,18,39.948,1.000513,https://www.clippercontrols.com/pages/Dielectric-Constant-Values.html#T
+K,potassium,19,39.0983,5.6,chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.kabusa.com/Dilectric-Constants.pdf
+Ca,calcium,20,40.078,3,https://www.clippercontrols.com/pages/Dielectric-Constant-Values.html#T
+Sc,scandium,21,44.95591,100000,NULL
+Ti,titanium,22,47.867,85,https://www.azom.com/article.aspx?ArticleID=1179
+V,vanadium,23,50.9415,2.6,http://www.ydic.co.jp/english/technology/table_E.html
+Cr,chromium,24,51.9961,5.56,"https://www.sciencedirect.com/science/article/pii/0040603181851714#:~:text=The%20static%20dielectric%20constant%20E,the%20migration%20of%20charge%20carriers."
+Mn,manganese,25,54.938049,3,http://www.ydic.co.jp/english/technology/table_E.html
+Fe,iron,26,55.845,1.38,http://www.ydic.co.jp/english/technology/table_E.html
+Co,cobalt,27,58.9332,12.9,"https://pubs.aip.org/aip/jap/article/36/6/2031/166198/Dielectric-Properties-of-Cobalt-Oxide-Nickel-Oxide#:~:text=The%20dielectric%20constant%20%CE%BA%E2%80%B2%20is,whole%20frequency%20range%20in%20CoO."
+Ni,nickel,28,58.6934,11.9,"https://pubs.aip.org/aip/jap/article/36/6/2031/166198/Dielectric-Properties-of-Cobalt-Oxide-Nickel-Oxide#:~:text=The%20dielectric%20constant%20%CE%BA%E2%80%B2%20is,whole%20frequency%20range%20in%20CoO."
+Cu,copper,29,63.546,18.1,https://www.clippercontrols.com/pages/Dielectric-Constant-Values.html#T
+Zn,zinc,30,65.409,10.4,"https://iopscience.iop.org/article/10.1088/0508-3443/9/11/308/pdf#:~:text=The%20dielectric%20constant%20of%20zinc%20oxide%20is%20shown%20to%20have,to%20about%2010%20Mc%2Fs."
+Ga,gallium,31,69.723,11.52,https://pubs.aip.org/aip/jap/article-abstract/80/12/6939/2671/Infrared-dielectric-constant-of-gallium-arsenide?redirectedFrom=fulltext
+Ge,germanium,32,72.64,15.8,"https://journals.aps.org/pr/abstract/10.1103/PhysRev.92.1396#:~:text=The%20dielectric%20constant%20of%20silicon,of%20germanium%2015.8%C2%B10.2."
+As,arsenic,33,74.9216,7.459,https://www.sciencedirect.com/science/article/abs/pii/0022369789900681
+Se,selenium,34,78.96,,
+Br,bromine,35,79.904,,
+Kr,krypton,36,83.798,,
+Rb,rubidium,37,85.4678,,
+Sr,strontium,38,87.62,,
+Y,yttrium,39,88.90585,,
+Zr,zirconium,40,91.224,,
+Nb,niobium,41,92.90638,,
+Mo,molybdenum,42,95.94,,
+Tc,technetium,43,98,,
+Ru,ruthenium,44,101.07,,
+Rh,rhodium,45,102.9055,,
+Pd,palladium,46,106.42,,
+Ag,silver,47,107.8682,,
+Cd,cadmium,48,112.411,,
+In,indium,49,114.818,,
+Sn,tin,50,118.71,,
+Sb,antimony,51,121.76,,
+Te,tellurium,52,127.6,,
+I,iodine,53,126.90447,,
+Xe,xenon,54,131.293,,
+Cs,cesium,55,132.90545,,
+Ba,barium,56,137.327,,
+La,lanthanum,57,138.9055,27,"https://en.wikipedia.org/wiki/Lanthanum_oxide#:~:text=Lanthanum%20oxide%20has%20p%2Dtype,dielectric%20constant%2C%20%CE%B5%20%3D%2027."
+Ce,cerium,58,140.116,24.5,"https://iopscience.iop.org/article/10.1088/2515-7639/aacff0#:~:text=Cerium%20being%20a%20rare%2Dearth,%E2%80%932.8)%20%5B7%5D."
+Pr,praseodymium,59,140.90765,35,https://www.researchgate.net/publication/260487631_High-K_Dielectrics_The_Example_of_Pr2O3
+Nd,neodymium,60,144.24,5.66,https://onlinelibrary.wiley.com/doi/abs/10.1002/pssa.2211210221
+Pm,promethium,61,145,100000,NULL
+Sm,samarium,62,150.36,11,"https://nanografi.com/rare-earth-materials/rare-earth-oxide-powder/samarium-oxide-sm2o3-powder/#:~:text=Sm2O3%20outstanding,dispersion%2C%20and%20low%20trapping%20rates."
+Eu,europium,63,151.964,100000,NULL
+Gd,gadolinium,64,157.25,10,"https://pubmed.ncbi.nlm.nih.gov/10082459/#:~:text=The%20gadolinium%20oxide%20film%20has%20a%20dielectric%20constant%20of%20approximately,square%20centimeter%20at%20zero%20bias."
+Tb,terbium,65,158.92534,14,https://www.sciencedirect.com/science/article/pii/S0040609011019146
+Dy,dysprosium,66,162.5,4100,https://www.scielo.br/j/ce/a/DXN54SgHsvfRmYyrjMWcC3g/?lang=en#:~:text=For%20Dy%20the%20dielectric%20concentration%20constant%20reaches%204100.
+Ho,holmium,67,164.93032,4500,https://www.sciencedirect.com/science/article/pii/S0272884212010309
+Er,erbium,68,167.259,100000,NULL
+Tm,thulium,69,168.93421,100000,NULL
+Yb,ytterbium,70,173.04,4500,"https://www.scielo.br/j/mr/a/mCpDhmyWvp5ntNFZchKFQhd/?format=pdf&lang=en#:~:text=The%20dielectric%20constant%20can%20reach,dielectric%20properties%20in%20BZT10%20ceramics."
+Lu,lutetium,71,174.967,12,"https://nanografi.com/rare-earth-materials/rare-earth-oxide-powder/lutetium-oxide-lu2o3-powder/#:~:text=The%20compound%20is%20also%20known,about%20%CE%BA%20%3D%2011%E2%80%9313."
+Hf,hafnium,72,178.49,6.75,
+Ta,tantalum,73,180.9479,11.6,
+W,tungsten,74,183.84,100000,NULL
+Re,rhenium,75,186.207,18.7,https://www.azom.com/properties.aspx?ArticleID=1491
+Os,osmium,76,190.23,100000,NULL
+Ir,iridium,77,192.217,100000,NULL
+Pt,platinum,78,195.078,7,
+Au,gold,79,196.96655,6.9,https://www.mit.edu/~6.777/matprops/gold.htm
+Hg,mercury,80,200.59,1.00074,
+Tl,thallium,81,204.3833,46.9,
+Pb,lead,82,207.2,18.1,
+Bi,bismuth,83,208.98038,40,chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.scholarsresearchlibrary.com/articles/electromagnetic-properties-of-bismuth-oxide-thin-film-deposited-on-glass-and-alumina.pdf
+Po,polonium,84,209,100000,NULL
+At,astatine,85,210,100000,NULL
+Rn,radon,86,222,100000,NULL
+Fr,francium,87,223,155,https://www.allpcb.com/sns/dielectric-constant-value-for-fr-4-mater_26243.html
+Ra,radium,88,226,100000,NULL
+Ac,actinium,89,227,,
+Th,thorium,90,232.0381,,
+Pa,protactinium,91,231.03588,,
+U,uranium,92,238.02891,,
+Np,neptunium,93,237,,
+Pu,plutonium,94,244,,
+Am,americium,95,243,,
+Cm,curium,96,247,,
+Bk,berkelium,97,247,,
+Cf,californium,98,251,,
+Es,einsteinium,99,252,,
+Fm,fermium,100,257,,
+Md,mendelevium,101,258,,
+No,nobelium,102,259,,
+Lr,lawrencium,103,262,,
+Rf,rutherfordium,104,261,,
+Db,dubnium,105,262,,
+Sg,seaborgium,106,266,,
+Bh,bohrium,107,264,,
+Hs,hassium,108,277,,
+Mt,meitnerium,109,268,,
+Ds,darmstadtium,110,281,,
+Rg,roentgenium,111,272,,
+Cn,copernicium,112,285,,
+Nh,nihonium,113,286,,
+Fl,flerovium,114,289,,
+Mc,moscovium,115,289,,
+Lv,livermorium,116,293,,
+Ts,tennessine,117,294,,
+Og,oganesson,118,294,,
+C,Carbon,,,5.82971398,Materials Project
+C,Carbon,,,6.598070947,Materials Project
+N,Nitrogen,,,5.01377104,Materials Project
+N,Nitrogen,,,1.53145984,Materials Project
+N,Nitrogen,,,1.40798192,Materials Project
+N,Nitrogen,,,1.39572475,Materials Project
+B,Boron,,,9.520076497,Materials Project
+TiO2,Titanium Dioxide,,,9.464398683,Materials Project
+TiO2,Titanium Dioxide,,,63.21909959,Materials Project
+TiO2,Titanium Dioxide,,,19.63324553,Materials Project
+TiO2,Titanium Dioxide,,,8.703688133,Materials Project
+TiO2,Titanium Dioxide,,,35.47354606,Materials Project

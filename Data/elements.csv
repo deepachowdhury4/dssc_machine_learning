@@ -1,0 +1,38 @@
+Symbol,Full Name,Type,Random_Nums,Structure,Dielectric_Constant,Source_Dielectric
+Sc,Scandium,Transition_Metal,9,,100000,NULL
+Ti,Titanium,Transition_Metal,6,,85,https://www.azom.com/article.aspx?ArticleID=1179
+V,Vanadium,Transition_Metal,9,,2.6,http://www.ydic.co.jp/english/technology/table_E.html
+Cr,Chromium,Transition_Metal,8,,5.56,"https://www.sciencedirect.com/science/article/pii/0040603181851714#:~:text=The%20static%20dielectric%20constant%20E,the%20migration%20of%20charge%20carriers."
+Mn,Manganese,Transition_Metal,7,,3,http://www.ydic.co.jp/english/technology/table_E.html
+Fe,Iron,Transition_Metal,4,,1.38,http://www.ydic.co.jp/english/technology/table_E.html
+Co,Cobalt,Transition_Metal,9,,12.9,"https://pubs.aip.org/aip/jap/article/36/6/2031/166198/Dielectric-Properties-of-Cobalt-Oxide-Nickel-Oxide#:~:text=The%20dielectric%20constant%20%CE%BA%E2%80%B2%20is,whole%20frequency%20range%20in%20CoO."
+Ni,Nickel,Transition_Metal,2,,11.9,"https://pubs.aip.org/aip/jap/article/36/6/2031/166198/Dielectric-Properties-of-Cobalt-Oxide-Nickel-Oxide#:~:text=The%20dielectric%20constant%20%CE%BA%E2%80%B2%20is,whole%20frequency%20range%20in%20CoO."
+Cu,Copper,Transition_Metal,2,,100000,
+Zn,Zinc,Transition_Metal,5,,10.4,"https://iopscience.iop.org/article/10.1088/0508-3443/9/11/308/pdf#:~:text=The%20dielectric%20constant%20of%20zinc%20oxide%20is%20shown%20to%20have,to%20about%2010%20Mc%2Fs."
+La,Lanthanum,Rare_Earth_Metal,4,,27,"https://en.wikipedia.org/wiki/Lanthanum_oxide#:~:text=Lanthanum%20oxide%20has%20p%2Dtype,dielectric%20constant%2C%20%CE%B5%20%3D%2027."
+Ce,Cerium,Rare_Earth_Metal,0,,24.5,"https://iopscience.iop.org/article/10.1088/2515-7639/aacff0#:~:text=Cerium%20being%20a%20rare%2Dearth,%E2%80%932.8)%20%5B7%5D."
+Pr,Praseodymium,Rare_Earth_Metal,10,,35,https://www.researchgate.net/publication/260487631_High-K_Dielectrics_The_Example_of_Pr2O3
+Nd,Neodymium,Rare_Earth_Metal,4,,5.66,https://onlinelibrary.wiley.com/doi/abs/10.1002/pssa.2211210221
+Pm,Promethium,Rare_Earth_Metal,6,,100000,NULL
+Sm,Samarium,Rare_Earth_Metal,10,,11,"https://nanografi.com/rare-earth-materials/rare-earth-oxide-powder/samarium-oxide-sm2o3-powder/#:~:text=Sm2O3%20outstanding,dispersion%2C%20and%20low%20trapping%20rates."
+Eu,Europium,Rare_Earth_Metal,7,,100000,NULL
+Gd,Gadolinium,Rare_Earth_Metal,9,,10,"https://pubmed.ncbi.nlm.nih.gov/10082459/#:~:text=The%20gadolinium%20oxide%20film%20has%20a%20dielectric%20constant%20of%20approximately,square%20centimeter%20at%20zero%20bias."
+Tb,Terbium,Rare_Earth_Metal,8,,14,https://www.sciencedirect.com/science/article/pii/S0040609011019146
+Dy,Dysprosium,Rare_Earth_Metal,3,,4100,https://www.scielo.br/j/ce/a/DXN54SgHsvfRmYyrjMWcC3g/?lang=en#:~:text=For%20Dy%20the%20dielectric%20concentration%20constant%20reaches%204100.
+Ho,Holmium,Rare_Earth_Metal,9,,4500,https://www.sciencedirect.com/science/article/pii/S0272884212010309
+Er,Erbium,Rare_Earth_Metal,3,,100000,NULL
+Tm,Thulium,Rare_Earth_Metal,8,,100000,NULL
+Yb,Ytterbium,Rare_Earth_Metal,5,,4500,"https://www.scielo.br/j/mr/a/mCpDhmyWvp5ntNFZchKFQhd/?format=pdf&lang=en#:~:text=The%20dielectric%20constant%20can%20reach,dielectric%20properties%20in%20BZT10%20ceramics."
+Lu,Lutetium,Rare_Earth_Metal,7,,12,"https://nanografi.com/rare-earth-materials/rare-earth-oxide-powder/lutetium-oxide-lu2o3-powder/#:~:text=The%20compound%20is%20also%20known,about%20%CE%BA%20%3D%2011%E2%80%9313."
+C,Carbon,,5,Cubic,5.82971398,
+C,Carbon,,1,Trigonal,6.598070947,
+N,Nitrogen,,7,Cubic,5.01377104,
+N,Nitrogen,,0,Cubic,1.53145984,
+N,Nitrogen,,6,Hexagonal,1.40798192,
+N,Nitrogen,,9,Cubic,1.39572475,
+B,Boron,,0,Trigonal,9.520076497,
+TiO2,Titanium Dioxide,,9,Tetragonal,9.464398683,
+TiO2,Titanium Dioxide,,4,Tetragonal,63.21909959,
+TiO2,Titanium Dioxide,,7,Trigonal,19.63324553,
+TiO2,Titanium Dioxide,,9,Trigonal,8.703688133,
+TiO2,Titanium Dioxide,,10,Monoclinic,35.47354606,
